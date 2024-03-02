@@ -5,7 +5,6 @@ of a positive diagnosis. We pre-process and detect facial landmarks of the
 dataset, consisting of stroke patients and healthy individuals, with the
 dlib library. We then extract features from the landmarks, and finally we
 train an SVM model and use it to predict if the user is experiencing a
-stroke. The experimental results of our system average to 93%, indicat-
-ing a high accuracy in facial droop recognition, which help identifying
+stroke. The experimental results of our system average to 93%, indicating a high accuracy in facial droop recognition, which will help identify
 patients having a stroke.
 
