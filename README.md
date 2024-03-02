@@ -1,6 +1,5 @@
 # SFU CMPT 340 Project -- AmIHavingAStroke.ca
-A common symptom of strokes is facial drooping and asym-
-metry. We present a Python program that aims to help patients assess
+A common symptom of strokes is facial drooping and asymmetry. We present a Python program that aims to help patients assess
 their own health by analysing their face and determining the likelihood
 of a positive diagnosis. We pre-process and detect facial landmarks of the
 dataset, consisting of stroke patients and healthy individuals, with the
